@@ -1,0 +1,5 @@
+Pclass,Survived,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked
+1,1,John Doe,male,22,1,0,A/5 21171,7.25,C
+1,0,Jane Smith,female,38,1,0,PC 17599,71.2833,C
+3,1,Bob Brown,male,26,0,0,113803,8.05,Q
+3,0,Ann Green,female,27,1,0,373450,8.4583,S
